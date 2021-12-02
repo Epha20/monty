@@ -1,7 +1,7 @@
 #include "monty.h"
 
 /**
- * _mod - prints the renainder of the second top element of the
+ * _mod - prints the remainder of the second top element of the
  *        stack by the top element of the stack.
  * @stack: the stack
  * @x: the line number
